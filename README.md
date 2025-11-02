@@ -80,7 +80,7 @@
 ## 🎯 2026 Goals
 
 - [ ] Master Data Structures & Algorithms
-- [ ] Build 5+ full-stack projects
+- [ ] Build 5+ real projects w/ impact
 - [ ] Contribute to open source
 - [ ] Land SDE/TPM summer internship
 - [ ] Volunteer at FIFA 2026 World Cup ⚽
