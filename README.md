@@ -28,15 +28,15 @@
 
 <table>
 <tr>
-<td width="80%">
+<td width="60%">
 
 ### 🔬 Previous Life
-- **Clinical Research** @ Cornell
 - **Project Manager** @ Amerigo Scientific  
-- **Associate Scientist** @ Eurofins
+- **Clinical Research Coordinator** @ Cornell
+- **Associate Scientist** @ Eurofins Lab
 
 </td>
-<td width="50%">
+<td width="40%">
 
 ### 💻 Current Focus
 - **Data Structures & Algorithms**
@@ -67,12 +67,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dingonewen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=61afef&icon_color=61afef&text_color=abb2bf" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dingonewen&theme=tokyonight&hide_border=true&background=1a1b27&ring=61afef&fire=e06c75&currStreakLabel=abb2bf" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=dingonewen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=61afef&icon_color=61afef&text_color=abb2bf" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=dingonewen&theme=tokyonight&hide_border=true&background=1a1b27&ring=61afef&fire=e06c75&currStreakLabel=abb2bf" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dingonewen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=61afef&text_color=abb2bf&langs_count=8" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dingonewen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=61afef&text_color=abb2bf&langs_count=8" />
 </div>
 
 <br/>
@@ -89,10 +89,10 @@
 
 ## 🌟 Fun Facts
 
+- 😄 Self-proclaimed "Humor Retriever"
 - 🍜 Former food scientist who loves exploring cuisines
 - 🏊‍♂️ Swim ~25km/month to stay active
 - 🎵 Favorite artist: Khalil Fong
-- 😄 Self-proclaimed "Humor Retriever"
 
 <br/>
 
@@ -100,6 +100,6 @@
   
   ![](https://komarev.com/ghpvc/?username=dingonewen&color=61afef&style=flat-square)
   
-  ### Show some ❤️ by starring some of my repositories!
+  ### ❤️Looking forward to connecting with and learning from you！
   
 </div>
