@@ -19,7 +19,7 @@
 ## 🎓 Education
 ```diff
 + MS in Computer & Information Technology @ UPenn (2025-2027)
-+ BS in Food Science @ Cornell University (2018-2022)
++ BS in Food Science @ Cornell (2018-2022)
 ```
 
 <br/>
@@ -28,7 +28,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="80%">
 
 ### 🔬 Previous Life
 - **Clinical Research** @ Cornell
