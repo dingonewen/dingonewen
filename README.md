@@ -28,7 +28,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
 ### 🔬 Previous Life
 - **Project Manager** @ Amerigo Scientific  
@@ -36,7 +36,7 @@
 - **Associate Scientist** @ Eurofins Lab
 
 </td>
-<td width="40%">
+<td width="45%">
 
 ### 💻 Current Focus
 - **Data Structures & Algorithms**
