@@ -92,7 +92,7 @@
 - 😄 Self-proclaimed "Humor Retriever"
 - 🍜 Former food scientist who loves exploring cuisines
 - 🏊‍♂️ Swim ~25km/month to stay active
-- 🎵 Favorite artist: Khalil Fong
+- 🛌 Never stay up late
 
 <br/>
 
