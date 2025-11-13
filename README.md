@@ -68,7 +68,7 @@
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=dingonewen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=61afef&icon_color=61afef&text_color=abb2bf" />
-  <img width="50%" src="https://streak-stats.demolab.com/?user=dingonewen&theme=tokyonight&hide_border=true&background=1a1b27&ring=61afef&fire=e06c75&currStreakLabel=abb2bf" />
+  <img width="50%" src="https://github-readme-streak-stats-eight.vercel.app/?user=dingonewen&theme=tokyonight&hide_border=true&background=1a1b27&ring=61afef&fire=e06c75&currStreakLabel=abb2bf" />
 </div>
 
 <div align="center">
