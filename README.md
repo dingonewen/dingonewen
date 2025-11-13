@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61AFEF&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yiwen+Ding" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 From Food Science to Full Stack 🚀</h3>
+<h3 align="center">📊 PM-Minded | Tech-Driven | Future SDE 💻</h3>
 
 <br/>
 
@@ -24,6 +24,14 @@
 
 <br/>
 
+## 🎯 Career Vision
+
+> **Bridging Product & Engineering**: Leveraging PM experience and technical depth to eventually transition into SDE roles. I believe the best engineers understand user needs, and the best PMs understand technical constraints.
+
+**Current Path**: Product Management → Technical PM/TPM → Software Engineering
+
+<br/>
+
 ## 💼 Experience Snapshot
 
 <table>
@@ -38,10 +46,11 @@
 </td>
 <td width="45%">
 
-### 💻 Current Focus
-- **Data Structures & Algorithms**
-- **Java & Python Development**
-- **Building Real Projects**
+### 🎯 Current Focus
+- **Product Management & Strategy**
+- **Technical Foundation (DSA, Java, Python)**
+- **Data-Driven Decision Making**
+- **Building User-Centric Products**
 
 </td>
 </tr>
@@ -55,10 +64,10 @@
 
 | **Category** | **Technologies** |
 |:---:|:---:|
+| **PM Skills** | Product Strategy • User Research • Data Analysis • Stakeholder Management |
 | **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
-| **Research** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![JMP](https://img.shields.io/badge/JMP-00599C?style=flat) |
+| **Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Analytics** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![JMP](https://img.shields.io/badge/JMP-00599C?style=flat) Data Visualization |
 
 </div>
 
@@ -79,10 +88,10 @@
 
 ## 🎯 2026 Goals
 
-- [ ] Master Data Structures & Algorithms
-- [ ] Build 5+ real projects w/ impact
-- [ ] Contribute to open source
-- [ ] Land SDE/TPM summer internship
+- [ ] Build 5+ product-driven projects with real user impact
+- [ ] Strengthen technical foundation (DSA & system design)
+- [ ] Land PM or TPM summer internship
+- [ ] Contribute to open source (technical PM perspective)
 - [ ] Volunteer at FIFA 2026 World Cup ⚽
 
 <br/>
