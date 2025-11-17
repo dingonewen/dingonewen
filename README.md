@@ -1,12 +1,12 @@
 <h1 align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4078f2&center=true&vCenter=true&repeat=false&width=435&lines=Hi,+I'm+Yiwen+Ding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4078f2&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yiwen+Ding" alt="Typing SVG" />
 
 </h1>
 
  
 
-<h3 align="center">From Food Science to Full Stack Development</h3>
+<h3 align="center"> PM-Minded | Tech-Driven | Future SDE </h3>
 
  
 
@@ -18,7 +18,7 @@
 
  
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-dingonewen.github.io-4078f2?style=for-the-badge)](https://dingonewen.github.io)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-dingonewen.github.io-4078f2?style=for-the-badge)](https://dingonewen.github.io)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-dingyiwen-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dingyiwen)
 
@@ -43,6 +43,22 @@
 + BS in Food Science @ Cornell (2018-2022)
 
 ```
+
+ 
+
+<br/>
+
+ 
+
+## Career Vision
+
+ 
+
+> **Bridging Product & Engineering**: Leveraging PM experience and technical depth to eventually transition into SDE roles. I believe the best engineers understand user needs, and the best PMs understand technical constraints.
+
+ 
+
+**Current Path**: Product Management → Technical PM/TPM → Software Engineering
 
  
 
@@ -80,11 +96,13 @@
 
 ### Current Focus
 
-- **Data Structures & Algorithms**
+- **Product Management & Strategy**
 
-- **Full Stack Development**
+- **Technical Foundation (DSA, Java, Python)**
 
-- **Building Real Projects**
+- **Data-Driven Decision Making**
+
+- **Building User-Centric Products**
 
  
 
@@ -111,6 +129,8 @@
 | **Category** | **Technologies** |
 
 |:---:|:---:|
+
+| **PM Skills** | Product Strategy • User Research • Data Analysis • Stakeholder Management |
 
 | **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 
@@ -164,15 +184,15 @@
 
  
 
-- [ ] Master Data Structures & Algorithms
+- Build 5+ product-driven projects with real user impact
 
-- [ ] Build 5+ real projects w/ impact
+- Strengthen technical foundation (DSA & system design)
 
-- [ ] Contribute to open source
+- Land PM or TPM summer internship
 
-- [ ] Land SDE/TPM summer internship
+- Contribute to open source (technical PM perspective)
 
-- [ ] Volunteer at FIFA 2026 World Cup
+- Volunteer at FIFA 2026 World Cup ⚽
 
  
 
@@ -180,17 +200,17 @@
 
  
 
-## Fun Facts
+## 🌟 Fun Facts
 
  
 
-- Self-proclaimed "Humor Retriever"
+- 😄 Self-proclaimed "Humor Retriever"
 
-- Former food scientist who loves exploring cuisines
+- 🍜 Former food scientist who loves exploring cuisines
 
-- Swim ~25km/month to stay active
+- 🏊‍♂️ Swim ~25km/month to stay active
 
-- Never stay up late
+- 🛌 Never stay up late
 
  
 
@@ -206,6 +226,8 @@
 
  
 
-  ### Looking forward to connecting with and learning from you!
+  ### ❤️Looking forward to connecting with and learning from you！
 
  
+
+</div>
