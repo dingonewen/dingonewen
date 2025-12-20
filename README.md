@@ -6,7 +6,7 @@
 
  
 
-<h3 align="center"> PM-Minded | Tech-Driven | Future SDE </h3>
+<h3 align="center"> TPM-Focused | Domain Expert | Technical Leader </h3>
 
  
 
@@ -54,11 +54,9 @@
 
  
 
-> **Bridging Product & Engineering**: Leveraging PM experience and technical depth to eventually transition into SDE roles. I believe the best engineers understand user needs, and the best PMs understand technical constraints.
+> **Technical Program Leadership**: Leveraging domain expertise and technical depth to drive complex cross-functional programs. Combining PM mindset with engineering rigor to deliver high-impact technical initiatives.
 
- 
-
-**Current Path**: Product Management → Technical PM/TPM → Software Engineering
+**Current Path**: Scientist → Project Management → Technical Program Management
 
  
 
@@ -96,13 +94,11 @@
 
 ### Current Focus
 
-- **Product Management & Strategy**
-
-- **Technical Foundation (DSA, Java, Python)**
-
-- **Data-Driven Decision Making**
-
-- **Building User-Centric Products**
+- **Technical Program Management**
+- **System Design & Architecture**
+- **Cross-functional Leadership**
+- **Domain Expertise (Biotech/Pharma/Marketing)**
+- **Technical Depth (DSA, Distributed Systems)**
 
  
 
@@ -175,17 +171,11 @@
 
 ## 2026 Goals
 
- 
-
-- Build 5+ product-driven projects with real user impact
-
-- Strengthen technical foundation (DSA & system design)
-
-- Land PM or TPM summer internship
-
-- Contribute to open source (technical PM perspective)
-
-- Volunteer at FIFA 2026 World Cup ⚽
+- Lead 3+ complex technical programs end-to-end
+- Deepen system design & architecture knowledge
+- Build domain expertise in ML and AI
+- Land TPM summer internship at top-tier tech company
+- Master stakeholder management across Engineering, Product, and Business
 
  
 
