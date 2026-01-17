@@ -149,13 +149,7 @@
  
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats-git-masterhst-anuraghazras-projects.vercel.app/api?username=dingonewen&show_icons=true&theme=default&hide_border=true&bg_color=fafafa&title_color=4078f2&icon_color=50a14f&text_color=383a42" />
-
-  <img width="50%" src="https://streak-stats.demolab.com/?user=dingonewen&theme=default&hide_border=true&background=fafafa&ring=4078f2&fire=e45649&currStreakLabel=383a42" />
-</div>
-
-<div align="center">
-  <img width="50%" src="https://github-readme-stats-git-masterhst-anuraghazras-projects.vercel.app/api/top-langs/?username=dingonewen&layout=compact&theme=default&hide_border=true&bg_color=fafafa&title_color=4078f2&text_color=383a42&langs_count=8" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
 </div>
 
  
