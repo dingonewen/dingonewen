@@ -30,7 +30,7 @@
 
 | Institution | Degree | Timeline |
 | :--- | :--- | :--- |
-| ![UPenn](https://img.shields.io/badge/UPenn-003366?style=flat-square&logo=university-of-pennsylvania&logoColor=white) | **MS in Computer & Information Technology** | 2025 — 2027 |
+| ![UPenn](https://img.shields.io/badge/UPenn-003366?style=flat-square&logo=university-of-pennsylvania&logoColor=white) | **MAS in Computer Science** | 2025 — 2027 |
 | ![Cornell](https://img.shields.io/badge/Cornell-B31B1B?style=flat-square&logo=cornell-university&logoColor=white) | **BS in Food Science** | 2020 — 2022 |
 | ![CAU](https://img.shields.io/badge/CAU-006633?style=flat-square) | **BEng in Food Science & Engineering** | 2018 — 2020 |
 
