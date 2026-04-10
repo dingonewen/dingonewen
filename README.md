@@ -52,7 +52,7 @@
 | :--- | :--- |
 | **Project Manager** @ Amerigo Scientific | **Technical Program Management** |
 | **Clinical Research Coordinator** @ Cornell | **System Design & Distributed Systems** |
-| **Associate Scientist** @ Eurofins Lab | **Cloud Architecture (AWS SAA Track)** |
+| **Associate Scientist** @ Eurofins Scientific | **Cloud Architecture (AWS SAA Track)** |
 | **Domain Expertise:** **Engineering**, Biotech, Food Sci | **Programming:** C++, Java, Python |
 
 <br/>
