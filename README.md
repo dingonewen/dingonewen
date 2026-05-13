@@ -38,11 +38,11 @@
 
 ## 🎯 Career Vision
 
-> **Technical Program Leadership**
+> **AI Systems & Technical Strategy**
 > 
-> *Merging **multidisciplinary engineering foundations** with modern software architecture. Leveraging a background in Engineering and Biotech to drive complex, cross-functional technical initiatives with high-stakes precision.*
+> *Bridging multidisciplinary engineering with agentic software architecture. Leveraging a background in Biotech and Operations to build high-stakes, autonomous systems with logical precision.*
 
-**Path Transition:** `Engineering Scientist` ➔ `Project Management` ➔ `Technical Program Management (TPM)`
+**Path Transition:** `Engineering Scientist` ➔ `Project Management` ➔ `AI Systems & Automation Architect`
 
 <br/>
 
