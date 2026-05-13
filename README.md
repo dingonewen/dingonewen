@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8aadf4&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Yiwen+Ding;TPM+Candidate+@+UPenn;Bridging+Biotech+and+CS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8aadf4&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Yiwen+Ding;AI+Engineer+Candidate+@+UPenn;Bridging+Biotech,+Food+and+CS" alt="Typing SVG" />
 
   <p align="center">
     <strong>AI Engineering | Agentic Workflows | Technical Program Management</strong>
@@ -77,7 +77,7 @@
 - **AI Automation & Infrastructure**: Architecting autonomous **Agentic Workflows** and **LLMOps pipelines** using LangChain and MCP; optimizing scalable cloud deployments for high-concurrency AI agent interactions.
 - **Programming Excellence**: Strengthen technical foundation in **C++**, **Java**, and **Python** for production-grade systems.
 - **Project Evolution**: Optimize and extend existing projects with enhanced architecture, CI/CD, and performance tuning.
-- **Career Progression**: Excel in **Summer 2026 TPM Internship** and secure full-time return offer.
+- **Career Progression**: Excel in **Summer 2026 SDE/TPM Internship** and secure full-time return offer.
 - **Technical Leadership**: Author impactful **Technical Design Docs (TDDs)** bridging Engineering and Business stakeholders.
 
 <br/>
