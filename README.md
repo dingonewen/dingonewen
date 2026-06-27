@@ -53,7 +53,7 @@
 | **Project Manager** @ Amerigo Scientific | **Architecting Agentic Workflows** |
 | **Clinical Research Coordinator** @ Cornell | **System Design & Distributed Systems** |
 | **Associate Scientist** @ Eurofins Scientific | **Technical Program Management** |
-| **Domain Expertise:** **Engineering**, Biotech, Food Sci | **Programming:** C++, Java, Python |
+| **Domain Expertise:** **Engineering**, Biotech, Food Sci | **Programming:** C++, Java, Python, TypeScript |
 
 <br/>
 
@@ -77,7 +77,7 @@
 - **AI Automation & Infrastructure**: Architecting autonomous **Agentic Workflows** and **LLMOps pipelines** using LangChain and MCP; optimizing scalable cloud deployments for high-concurrency AI agent interactions.
 - **Programming Excellence**: Strengthen technical foundation in **C++**, **Java**, and **Python** for production-grade systems.
 - **Project Evolution**: Optimize and extend existing projects with enhanced architecture, CI/CD, and performance tuning.
-- **Career Progression**: Excel in **Summer 2026 SDE/TPM Internship** and secure full-time return offer.
+- **Career Progression**: Excel in **Summer 2026 SDE/TPM Internship** and explore post-graduation career interests in the tech industry.
 - **Technical Leadership**: Author impactful **Technical Design Docs (TDDs)** bridging Engineering and Business stakeholders.
 
 <br/>
@@ -85,7 +85,7 @@
 ## 🌟 Fun Facts
 
 - 😄 Self-proclaimed "Humor Retriever"
-- 🍜 Former food scientist who loves exploring cuisines
+- 🍜 Food scientist who loves nutritious cuisines
 - 🏊‍♂️ Swim ~25km/month to stay active
 - 🛌 Never stay up late
 
