@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_padding: 10%, 10%      
@@ -24,4 +24,5 @@ jobs:
           plugin_languages_ignored: html, css, jupyter notebook
           plugin_languages_details: bytes-size, percentage
           
-          plugin_lines: no
+          plugin_lines: yes
+          plugin_lines_sections: base,repositories,history
