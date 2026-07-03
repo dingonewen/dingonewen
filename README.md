@@ -38,11 +38,9 @@
 
 ## 🎯 Career Vision
 
-> **AI Systems & Technical Strategy**
-> 
-> *Bridging multidisciplinary engineering with agentic software architecture. Leveraging a background in Biotech and Operations to build high-stakes, autonomous systems with logical precision.*
+> **AI Engineer with a product mindset.** I build agentic systems end-to-end, write production code, and bridge the gap between what users need and what engineers build.
 
-**Path Transition:** `Engineering Scientist` ➔ `Project Management` ➔ `AI Systems & Automation Architect`
+**Path:** `Food Science` → `Project Management` → `AI Engineering & Technical Leadership`
 
 <br/>
 
@@ -90,12 +88,10 @@
 
 ## 🚀 2026 Professional Goals
 
-- **System Design Mastery**: Deepen expertise in **Distributed Systems**, **System Architecture**, and **Design Patterns**.
-- **AI Automation & Infrastructure**: Architecting autonomous **Agentic Workflows** and **LLMOps pipelines** using LangChain and MCP; optimizing scalable cloud deployments for high-concurrency AI agent interactions.
-- **Programming Excellence**: Strengthen technical foundation in **C++**, **Java**, and **Python** for production-grade systems.
-- **Project Evolution**: Optimize and extend existing projects with enhanced architecture, CI/CD, and performance tuning.
-- **Career Progression**: Excel in **Summer 2026 SDE/TPM Internship** and explore post-graduation career interests in the tech industry.
-- **Technical Leadership**: Author impactful **Technical Design Docs (TDDs)** bridging Engineering and Business stakeholders.
+- **AI Engineer**: Ship production-grade agentic systems — autonomous email agents, HIPAA-compliant AI pipelines, LLMOps infrastructure. Move beyond demos to deployed, observable, user-facing AI products.
+- **Software Engineering**: Master full-stack system design and distributed architectures. Write clean, tested, production C++/Java/Python. Own features from whiteboard to deployment.
+- **Technical Program Management**: Lead cross-functional roadmaps, author Technical Design Docs, and make high-stakes technical trade-off decisions that bridge engineering execution with business outcomes.
+- **Build in Public**: Strengthen project portfolio with robust CI/CD, monitoring, and performance tuning. Contribute to open-source AI/ML infrastructure.
 
 <br/>
 
