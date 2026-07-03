@@ -46,14 +46,31 @@
 
 <br/>
 
-## 💼 Experience Snapshot
+## 💼 Experience
 
-| 🏛️ Previous Life (Domain Expertise) | 🚀 Current Focus (Technical Depth) |
-| :--- | :--- |
-| **Project Manager** @ Amerigo Scientific | **Architecting Agentic Workflows** |
-| **Clinical Research Coordinator** @ Cornell | **System Design & Distributed Systems** |
-| **Associate Scientist** @ Eurofins Scientific | **Technical Program Management** |
-| **Domain Expertise:** **Engineering**, Biotech, Food Sci | **Programming:** C++, Java, Python, TypeScript |
+> 🚑 **MedicScribe** — *Software Engineering Intern* · Jul 2027 – Present
+> 
+> Architected HIPAA-compliant front-end and secure data pipeline for an EMS application piloted by **Stanford's EMT group**. Built intuitive mobile UIs for high-stress clinical environments.
+
+> 🚀 **Cronwell** — *Software Engineering Intern* · Jun 2027 – Present
+> 
+> Design, build, and ship mobile app and agent interaction experiences end-to-end. Currently architecting an **autonomous email agent** with sensitivity detection — owning features from inception to delivery.
+
+> ⚽ **FIFA World Cup 2026** — *Accreditation & Fan Operations Support* · May 2027
+> 
+> Managed high-volume CRM credentialing workflows and identity verification to ensure **100% FIFA compliance**.
+
+> 📊 **Amerigo Scientific** — *Project Manager* · Jun 2023 – May 2025
+> 
+> Directed cross-functional operations and negotiated **100+ global agreements** contributing to 85% of annual revenue. Architected an **LLM-integrated marketing automation pipeline** using Python to scale outreach. Orchestrated technical roadmaps bridging Engineering and Sales.
+
+> 🔬 **Cornell University** — *Clinical Research Coordinator* · Dec 2022 – Jun 2023
+> 
+> Directed end-to-end study pipelines for **~200 participants/quarter**, maintaining 100% IRB/GLP compliance. Leveraged **R** for statistical modeling to validate findings for peer-reviewed publications.
+
+> 🧪 **Eurofins** — *Associate Scientist* · Aug 2022 – Dec 2022
+> 
+> Performed client sample testing in **BSL-2** per cGMP/GLP/USP standards. Collaborated with PM to ensure precise, on-time delivery.
 
 <br/>
 
