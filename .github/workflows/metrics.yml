@@ -2,7 +2,6 @@ name: Metrics
 on:
   schedule: [{cron: "0 13 * * *"}]
   workflow_dispatch:
-  push: {branches: ["main"]}
 
 jobs:
   github-metrics:
@@ -26,3 +25,4 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           
           plugin_lines: yes
+          plugin_lines_sections: base, repositories, history
