@@ -46,9 +46,11 @@
 
 ## 💼 Experience
 
+<!--
 > 🚑 **MedicScribe** — *Software Engineering Intern* · Jul 2027 – Present
 > 
 > Architected HIPAA-compliant front-end and secure data pipeline for an EMS application piloted by **Stanford's EMT group**. Built intuitive mobile UIs for high-stress clinical environments.
+-->
 
 > 🚀 **Cronwell** — *Software Engineering Intern* · Jun 2027 – Present
 > 
