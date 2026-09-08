@@ -46,15 +46,15 @@
 
 ## 💼 Experience
 
-> 🚑 **Stealth AI Startup** — *Software Engineering Intern* · Jul 2027 – Present
+> 🚑 **Stealth AI Startup** — *Software Engineering Intern* · Jul 2026 – Present
 > 
 > Architected HIPAA-compliant front-end and secure data pipeline for an EMS application. Built intuitive mobile UIs for high-stress clinical environments.
 
-> 🚀 **Cronwell** — *Software Engineering Intern* · Jun 2027 – Present
+> 🚀 **Cronwell** — *Software Engineering Intern* · Jun 2026 – Sep 2026
 > 
-> Design, build, and ship mobile app and agent interaction experiences end-to-end. Currently architecting an **autonomous email agent** with sensitivity detection — owning features from inception to delivery.
+> Design, build, and ship several systems end-to-end, including Sail, Vellum, WebAssembly Email Classifier, etc.
 
-> ⚽ **FIFA World Cup 2026** — *Accreditation & Fan Operations Support* · May 2027
+> ⚽ **FIFA World Cup 2026** — *Accreditation & Fan Operations Support* · May 2026
 > 
 > Managed high-volume CRM credentialing workflows and identity verification to ensure **100% FIFA compliance**.
 
