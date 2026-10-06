@@ -50,7 +50,7 @@
 > 
 > Architected HIPAA-compliant front-end and secure data pipeline for an EMS application. Built intuitive mobile UIs for high-stress clinical environments.
 
-> 🚀 **Cronwell** — *Software Engineering Intern* · Jun 2026 – Sep 2026
+> 🚀 **Cronwell** — *Software Engineering Intern* · Jul 2026 – Sep 2026
 > 
 > Design, build, and ship several systems end-to-end, including Sail, Vellum, WebAssembly Email Classifier, etc.
 
@@ -100,12 +100,12 @@
 
 - 😄 Self-proclaimed "Humor Retriever"
 - 🍜 Food scientist who loves nutritious cuisines
-- 🏊‍♂️ Swim ~25km/month to stay active
+- 🏊‍♂️ Swim ~30km/month to stay sharp
 - 🛌 Never stay up late
 
 <br/>
 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=dingonewen&color=8aadf4&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=dingonewen&color=8aadf4&style=flat-square)
   <h3>❤️ Looking forward to connecting with and learning from you!</h3>
 </div>
