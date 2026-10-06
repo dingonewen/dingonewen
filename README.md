@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8aadf4&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Yiwen+Ding;AI+Engineer+Candidate+@+UPenn;Bridging+Biotech,+Food+and+CS" alt="Typing SVG" />
 
-  <p align="center">
-    <strong>AI Engineering | Agentic Workflows | Technical Program Management</strong>
-  </p>
+<p align="center">
+  <strong>Software & AI Engineering | Technical Program Management</strong>
+</p>
 
   <a href="https://dingonewen.github.io">
     <img src="https://img.shields.io/badge/Portfolio-8aadf4?style=flat-square&logo=google-chrome&logoColor=24273a" alt="Portfolio" />
@@ -38,9 +38,9 @@
 
 ## 🎯 Career Vision
 
-> **AI Engineer with a product mindset.** I build agentic systems end-to-end, write production code, and bridge the gap between what users need and what engineers build.
+> **Engineer with a product and program mindset.** I build reliable systems end-to-end and bridge the gap between what users need, what engineers build, and what teams need to execute.
 
-**Path:** `Food Science` → `Project Management` → `AI Engineering & Technical Leadership`
+**Path:** `Food Science` → `Biotech` → `Computer Science` → `Software, AI & Technical Program Management`
 
 <br/>
 
@@ -93,7 +93,7 @@
 - **Systems Engineering**: Deepen my understanding of distributed systems, system design, performance optimization, and cloud infrastructure. Write clean, tested C++/Java/Python and own features end-to-end from design to deployment.
 - **AI Infrastructure**: Explore the engineering behind reliable AI products — agent orchestration, tool calling, RAG, evaluation, observability, and LLMOps — with an emphasis on latency, reliability, and maintainability.
 - **Build in Public**: Keep shipping projects, strengthen CI/CD and testing, contribute to open-source software, and document what I learn along the way.
-- 
+
 <br/>
 
 ## 🌟 Fun Facts
