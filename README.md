@@ -106,7 +106,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dingonewen&color=8aadf4&style=flat-square" alt="Profile Views" />
-  <br/>
+![Profile Views](https://komarev.com/ghpvc/?username=dingonewen&color=8aadf4&style=flat-square)
   <h3>❤️ Looking forward to connecting with and learning from you!</h3>
 </div>
